@@ -1,0 +1,6 @@
+node_modules/
+.DS_Store
+*.log
+# course materials (lecture PDFs) are the professor's – keep them out of the public repo
+materials/
+*.pdf
