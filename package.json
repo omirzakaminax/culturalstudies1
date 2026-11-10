@@ -1,0 +1,12 @@
+{
+  "name": "cultural-studies-platform",
+  "version": "1.0.0",
+  "description": "Personal Cultural Studies learning & exam preparation platform (Weeks 1–10, Endterm Weeks 6–10): notes, spaced-repetition flashcards, practice arena, exam simulator.",
+  "private": true,
+  "scripts": {
+    "build": "node build.js",
+    "start": "node build.js && npx --yes serve docs"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
